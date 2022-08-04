@@ -1,0 +1,109 @@
+#pb-navbar {
+    left: 0;
+    width: 100%;
+    background-color: rgba(90, 85, 85, 0.6) !important;
+    padding: 12px 0;
+    position: fixed;
+}
+
+.contenedor {
+    background: url(../img/Imagen_landing_invitacion_1920.png);
+    width: 100%;
+    height: 100vh;
+    background-size: contain ;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: white;
+}
+
+.rojo {
+    color: red;
+}
+
+.amarillo {
+    color: rgb(248, 194, 14);
+}
+
+.azul {
+    color: rgb(13, 174, 255);
+}
+
+.botonrojo {
+    background-color: red;
+    color: white;
+
+}
+
+footer {
+    background-color: rgb(4, 37, 54);
+    color: white;
+    padding-top: 1%;
+
+}
+
+.img {
+    width: 100%;
+    height: 100%;
+}
+
+.vermas{
+    color: red;
+    text-decoration: none;
+}
+
+.input {
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.h2 {
+    background-color: rgba(2, 2, 2, 0.219);
+    color: white;
+}
+
+.form {
+    background-color: white;
+}
+
+.datospersonales {
+    background-color: red;
+    color: white;
+}
+
+.Ayudanos {
+    background: url(../img/Enmascarar\ grupo\ 2.png);
+    background-size: cover;
+    width: 100%;
+}
+
+.xqayudar {
+    background: url(../img/Grupo\ 472.png);
+    color: white;
+    padding: 20px;
+    background-size: cover;
+    width: 100%;
+
+}
+
+.descubre {
+    background: url(../img/Grupo\ 424.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250px;
+    
+    margin: 8%;
+
+}
+
+.descubre p, h3 {
+    text-align: center;
+    color: white;
+    margin-left: 250px;
+}
+
+.descubre h3 {
+    margin-top: 25px;
+}
+
